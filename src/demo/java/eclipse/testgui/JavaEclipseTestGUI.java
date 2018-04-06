@@ -1,8 +1,6 @@
 //
 // Test GUI Project in Eclipse Oxigen
 //
-//
-//
 
 package demo.java.eclipse.testgui;
 
@@ -14,9 +12,6 @@ public class JavaEclipseTestGUI {
 
 	private JFrame frame;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
