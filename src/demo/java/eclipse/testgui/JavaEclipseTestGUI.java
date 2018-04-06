@@ -1,7 +1,6 @@
 //
 // Test GUI Project in Eclipse Oxigen
-//
-
+//*
 package demo.java.eclipse.testgui;
 
 import java.awt.EventQueue;
@@ -25,9 +24,6 @@ public class JavaEclipseTestGUI {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
 	public JavaEclipseTestGUI() {
 		initialize();
 	}
